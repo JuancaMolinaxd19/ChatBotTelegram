@@ -5,7 +5,7 @@
 <p>Tenemos que buscar el nombre de “BotFather” para que cree nuestro bot, tenemos que seguir los pasos que está en la imagen</p>
 <p>Al iniciar la aplicación de telegram en la cual al enviar el comando /newboot recibiremos un mensaje en que nombre se le va asignar el bot y el usuario siempre validando que sean sean válidos y no duplicados. al culminar estos pasos nos enviará nuestro API la cual nos servirá para el funcionamiento del bot.</p>
 
-![screen logo](/imagen/1.jpg)<br>
+![screen logo](/imagen/1.JPG)<br>
 
 <p>Nos dará el token (La API) Para que podamos modificar nuestro bot.</p>
 <p>E ingresamos los siguientes datos para la creación de la foto de perfil, la descripción y etc.</p><br>
