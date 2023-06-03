@@ -1,2 +1,2 @@
 # ChatBotTelegram
- Bot de Telegram
+ Bot telegram
